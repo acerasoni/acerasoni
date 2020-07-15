@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+<a href="https://www.linkedin.com/in/andreacerasoni/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 [![Stats](https://github-readme-stats.vercel.app/api?username=acerasoni&show_icons=true&title_color=33b3a6&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide=["issues","contribs"])](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
