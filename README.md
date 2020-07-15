@@ -1,13 +1,13 @@
 # Hi there 👋 
 
-### LinkedIn
+<b> LinkedIn </b>
 <a href="https://www.linkedin.com/in/andreacerasoni/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 </br>
 
-###Imperium, the subscription managing platform
+<b> Imperium, the subscription managing platform </b>
 <a href="https://acerasoni.github.io/Imperium/">
   <img align="left" alt="Imperium" width="22px" src="https://user-images.githubusercontent.com/32521086/87547626-ae0cc080-c6ab-11ea-8ee9-f19a09afa271.png" />
 </a>
