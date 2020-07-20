@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there, I'm Andrea 👋 
 
 <b> LinkedIn </b>
 <a href="https://www.linkedin.com/in/andreacerasoni/">
