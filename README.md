@@ -10,6 +10,11 @@
   <img align="left" alt="Imperium" width="22px" src="https://user-images.githubusercontent.com/32521086/87547626-ae0cc080-c6ab-11ea-8ee9-f19a09afa271.png" />
 </a>
 
+<b> JavaScript Fun!</b>
+<a href="https://acerasoni.github.io/JavaScript-Projects">
+  <img align="left" alt="JavaScriptIcon" width="22px" src="https://user-images.githubusercontent.com/32521086/90956743-33407d80-e481-11ea-9223-1880e9c7f878.png" />
+</a>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=acerasoni&show_icons=true&title_color=33b3a6&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide=["issues","contribs"])](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
