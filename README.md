@@ -2,7 +2,7 @@
 
 <b> LinkedIn </b>
 <a href="https://www.linkedin.com/in/andreacerasoni/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/32521086/91335145-e97ccd80-e7c7-11ea-96eb-dc5342ba6a6b.png" />
 </a>
 
 <b> Imperium, the Subscription Managing Platform </b>
