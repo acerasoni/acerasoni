@@ -6,7 +6,7 @@
 </a>
 
 <b> Imperium, the Subscription Managing Platform </b>
-<a href="https://acerasoni.github.io/Imperium/">
+<a href="https://acerasoni.github.io/Imperium-About/">
   <img align="left" alt="Imperium" width="22px" src="https://user-images.githubusercontent.com/32521086/87547626-ae0cc080-c6ab-11ea-8ee9-f19a09afa271.png" />
 </a>
 
