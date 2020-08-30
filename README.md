@@ -5,7 +5,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/32521086/91335145-e97ccd80-e7c7-11ea-96eb-dc5342ba6a6b.png" />
 </a>
 
-<b> Taskeroo, an Android productivity App </b>
+<b> Taskeroo, an Android Productivity App </b>
 <a href="https://play.google.com/store/apps/details?id=com.github.acerasoni.taskeroo">
   <img align="left" alt="Taskeroo" width="22px" src="https://user-images.githubusercontent.com/32521086/91660284-55fc1300-eacd-11ea-97d9-cb2efcd69d97.png" />
 </a>
