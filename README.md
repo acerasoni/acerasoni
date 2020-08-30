@@ -5,6 +5,11 @@
   <img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/32521086/91335145-e97ccd80-e7c7-11ea-96eb-dc5342ba6a6b.png" />
 </a>
 
+<b> Taskeroo, an Android productivity App </b>
+<a href="https://play.google.com/store/apps/details?id=com.github.acerasoni.taskeroo">
+  <img align="left" alt="Taskeroo" width="22px" src="https://user-images.githubusercontent.com/32521086/91660284-55fc1300-eacd-11ea-97d9-cb2efcd69d97.png" />
+</a>
+
 <b> Imperium, the Subscription Managing Platform </b>
 <a href="https://acerasoni.github.io/Imperium-About/">
   <img align="left" alt="Imperium" width="22px" src="https://user-images.githubusercontent.com/32521086/87547626-ae0cc080-c6ab-11ea-8ee9-f19a09afa271.png" />
