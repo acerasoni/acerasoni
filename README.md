@@ -20,15 +20,9 @@
   <img align="left" alt="JavaScriptIcon" width="22px" src="https://user-images.githubusercontent.com/32521086/90957098-ab0fa780-e483-11ea-8b74-fc90721d501c.png" />
 </a>
 
-<!-- Stats --!>
-
 [![Stats](https://github-readme-stats.vercel.app/api?username=acerasoni&show_icons=true&theme=algolia)
 
-<!-- Languages --!>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acerasoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Extra Pins --!>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=DroidTracker)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ka5p3rr&repo=PotassiumOverload)](https://github.com/anuraghazra/github-readme-stats)
