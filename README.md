@@ -1,9 +1,11 @@
 # Hi there, I'm Andrea 👋 
 
+<div style="background-color: lightblue">
 <b> LinkedIn </b>
-<a href="https://www.linkedin.com/in/andreacerasoni/" style="background-color:grey">
+<a href="https://www.linkedin.com/in/andreacerasoni/">
   <img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/32521086/91335145-e97ccd80-e7c7-11ea-96eb-dc5342ba6a6b.png" />
 </a>
+  </div>
 
 <b> Taskeroo, an Android Productivity App </b>
 <a href="https://play.google.com/store/apps/details?id=com.github.acerasoni.taskeroo">
