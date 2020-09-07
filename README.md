@@ -40,6 +40,11 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka5p3rr&repo=PotassiumOverload&theme=algolia" />
         </a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/acerasoni/count.svg" />
+</p>
+
 <!--
 **acerasoni/acerasoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
