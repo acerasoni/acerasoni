@@ -20,9 +20,13 @@
   <img align="left" alt="JavaScriptIcon" width="22px" src="https://user-images.githubusercontent.com/32521086/90957098-ab0fa780-e483-11ea-8b74-fc90721d501c.png" />
 </a>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=acerasoni&show_icons=true&theme=algolia)
+<a href="https://github.com/anuraghazra/stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acerasoni&show_icons=true&theme=algolia" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acerasoni&layout=compact&hide=c,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acerasoni&layout=compact&hide=c,shaderlab" />
+</a>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=imp-android)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=imp-backend)](https://github.com/anuraghazra/github-readme-stats)
