@@ -24,14 +24,22 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=acerasoni&show_icons=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/anuraghazra/stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acerasoni&layout=compact&hide=c,shaderlab" />
+<a href="https://github.com/anuraghazra/languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acerasoni&hide=c,shaderlab" />
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=imp-android)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=imp-backend)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=DroidTracker)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ka5p3rr&repo=PotassiumOverload)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/imp-android">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=imp-android" />
+</a>
+  <a href="https://github.com/anuraghazra/imp-backend">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=imp-backend" />
+</a>
+<a href="https://github.com/anuraghazra/droid-tracker">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=DroidTracker" />
+</a>
+<a href="https://github.com/anuraghazra/potassium-overload">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka5p3rr&repo=PotassiumOverload" />
+        </a>
 
 <!--
 **acerasoni/acerasoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
