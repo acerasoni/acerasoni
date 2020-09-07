@@ -30,12 +30,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acerasoni&hide=c,shaderlab&theme=algolia" />
 </a>
 
-<a href="https://github.com/anuraghazra/imp-android">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=imp-android&theme=algolia" />
-</a>
-  <a href="https://github.com/anuraghazra/imp-backend">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=imp-backend&theme=algolia" />
-</a>
 <a href="https://github.com/anuraghazra/droid-tracker">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=DroidTracker&theme=algolia" />
 </a>
