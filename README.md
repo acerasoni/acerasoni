@@ -1,7 +1,7 @@
 # Hi there, I'm Andrea 👋 
 
 <b> LinkedIn </b>
-<a href="https://www.linkedin.com/in/andreacerasoni/">
+<a href="https://www.linkedin.com/in/andreacerasoni/" style="background-color:grey">
   <img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/32521086/91335145-e97ccd80-e7c7-11ea-96eb-dc5342ba6a6b.png" />
 </a>
 
