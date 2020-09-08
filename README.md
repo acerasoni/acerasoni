@@ -30,10 +30,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acerasoni&hide=c,shaderlab&theme=algolia" />
 </a>
 
-<a href="https://github.com/anuraghazra/droid-tracker">
+<a href="https://github.com/acerasoni/droid-tracker">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acerasoni&repo=DroidTracker&theme=algolia" />
 </a>
-<a href="https://github.com/anuraghazra/potassium-overload">
+<a href="https://github.com/ka5p3rr/potassium-overload">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka5p3rr&repo=PotassiumOverload&theme=algolia" />
         </a>
 
