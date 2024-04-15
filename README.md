@@ -4,7 +4,7 @@
 
 <b> Author Website </b>
 <a href="https://andreacerasoni.com/">
-  <img align="left" alt="Website" width="22px" src="https://cdn.andreacerasoni.com/assets/5b469386-1357-4afe-b3d0-611229b65723" />
+  <img align="left" alt="Website" width="22px" src="https://cdn.andreacerasoni.com/assets/4e566fbd-1e95-469c-b21e-c93dc218ef74" />
 </a>
 
 <b> LinkedIn </b>
