@@ -1,7 +1,12 @@
 <div align="center">
   <h1> Hi, I'm Andrea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
- 
+
+<b> Author Website </b>
+<a href="https://andreacerasoni.com/">
+  <img align="left" alt="Website" width="22px" src="https://cdn.andreacerasoni.com/assets/5b469386-1357-4afe-b3d0-611229b65723" />
+</a>
+
 <b> LinkedIn </b>
 <a href="https://www.linkedin.com/in/andreacerasoni/">
   <img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/32521086/91335145-e97ccd80-e7c7-11ea-96eb-dc5342ba6a6b.png" />
